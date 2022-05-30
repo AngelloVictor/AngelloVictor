@@ -1,8 +1,8 @@
 
 <div align="left">
-    <h4> Hi, i'm Angelo Victor
-    Currently working on improving myself in Data Science and Python </h4>
-    If you want to talk to me, you can find me [>here<](https://www.linkedin.com/in/victor-angelo-319b16150/). </h4>
+    Hi, i'm Angelo Victor </br>
+    Currently working on improving myself in Data Science and Python </br>
+    If you want to talk to me, you can find me [here](https://www.linkedin.com/in/victor-angelo-319b16150/) 
     
 
 
