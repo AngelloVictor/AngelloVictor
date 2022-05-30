@@ -1,12 +1,11 @@
 
-<div align="center">
-    <h1> ### Olá! ### </h1>
+<div align="left">
+    <h4> Hi, i'm Angelo Victor
+    Currently working on improving myself in Data Science and Python </h4>
+    If you want to talk to me, you can find me [>here<](https://www.linkedin.com/in/victor-angelo-319b16150/). </h4>
+    
 
 
-Se você chegou até aqui é porque se interessou no meu perfil.
-Abaixo tem oque você precisa saber, como o que programo, meus principais repositórios e tudo que já fiz aqui no GitHub
-
-Caso queria saber mais, você pode me encontrar [>aqui<](https://www.linkedin.com/in/victor-angelo-319b16150/)
 
 <hr>
 <div>
