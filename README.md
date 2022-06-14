@@ -2,7 +2,7 @@
 <div align="left">
     ✌️ Hi, i'm Angelo Victor </br>
     🤖 Currently working on improving myself in Data Science and Python </br>
-    👀 If you want to talk to me, you can find me <a href="https://www.linkedin.com/in/victor-angelo-319b16150/" target="_blank">here</a> 
+    👀 If you want to talk to me, you can find me <a href="https://www.linkedin.com/in/angelo-victor/" target="_blank">here</a> 
 
 
 
