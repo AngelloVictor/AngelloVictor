@@ -6,14 +6,13 @@
 
 
 
-    <hr>
-    <div>
-      <img height="150em " margin="10px "src="https://github-readme-stats.vercel.app/api?username=angellovictor&show_icons=true&theme=transparent&show_icons=true&hide_border=true&count_private=true">
+ <hr>
+ <div>
+  <img height="150em " margin="10px "src="https://github-readme-stats.vercel.app/api?username=angellovictor&show_icons=true&theme=transparent&show_icons=true&hide_border=true&count_private=true">
+  <img height="150em " margin="10px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellovictor&layout=compact&theme=transparent&show_icons=true&hide_border=true&langs_count=8">
+</div>
 
-      <img height="150em " margin="10px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellovictor&layout=compact&theme=transparent&show_icons=true&hide_border=true&langs_count=8">
-    </div>
-
-    <div align="center">
+<div align="center">
       <p>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
