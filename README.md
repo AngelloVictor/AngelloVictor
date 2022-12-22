@@ -7,9 +7,9 @@
 
 <hr>
 <div>
-<img height="150em " margin="10px " src="https://github-readme-stats.vercel.app/api?username=angellovictor&show_icons=true&theme=github_dark&show_icons=true&hide_border=true&count_private=true">
+<img height="150em " margin="10px " src="https://github-readme-stats.vercel.app/api?username=angellovictor&show_icons=true&theme=transparent&show_icons=true&hide_border=true&count_private=true">
 
-<img height="150em " margin="10px " src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellovictor&layout=compact&theme=github_dark&show_icons=true&hide_border=true&langs_count=8">
+<img height="150em " margin="10px " src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellovictor&layout=compact&theme=transparent&show_icons=true&hide_border=true&langs_count=8">
 </div>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg " alt="python " width="40 " height="40 " />
